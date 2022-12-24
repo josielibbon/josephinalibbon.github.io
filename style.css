@@ -16,11 +16,15 @@
 }
 .bigName {
     color: #C6A49D;
-    top: 89.5%;
-    left: 50%;
+    /* top: 89.5%;
+    left: 50%; */
     /* white-space: nowrap; */
     font-family: 'Rubik Mono One', sans-serif;
+    font-size: 3rem;
+    font-weight: 1000;
+    line-height: 1.2;
   }
+
 
 
 @font-face {
